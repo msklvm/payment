@@ -15,7 +15,7 @@
                             <i class="mdi mdi-cube text-danger icon-lg"></i>
                         </div>
                         <div class="float-right">
-                            <p class="mb-0 text-right">Общая прибыль</p>
+                            <p class="mb-0 text-right">Общая прибыльь</p>
                             <div class="fluid-container">
                                 <h3 class="font-weight-medium text-right mb-0">{{ number_format($statics['total_revenue'], 0, '', ' ') }}
                                     руб.</h3>
